@@ -1,7 +1,7 @@
 ## Hello! I'm Vishal Kesharwani
 and i welcome you to my _website_.
 
-### checkout my [Instagram](https://instagram.com/az0rahai)
+>checkout my [Instagram](https://instagram.com/az0rahai)
 ![Img](https://i.imgur.com/OXjDWmg.gif)
 ![img2](https://images.unsplash.com/photo-1422004694183-cd2f8c55d4d9?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1053&q=80)
 ### Markdown
